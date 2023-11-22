@@ -2,7 +2,7 @@ Hi, I'm @TrifonDimitrov
 - 👀 I'm interested in development in the field of programming with javaScript.
 - 🌱 I'm currently studying software engineering at SoftUni with javaScript.
 - 💞️ I am looking for collaboration and work in the field of programming with javaScript.
-- 📫 How to contact me.
+- 📫 How to contact me:
 - Email: dimitrov1trifon@gmail.com
 - Facebook profil: Trifon Dimitrov
 - Mobile phone: +359 878160393
